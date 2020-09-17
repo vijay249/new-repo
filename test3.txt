@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 7E77-660F
+
+ Directory of c:\git
+
+17-09-2020  03:04    <DIR>          .
+17-09-2020  03:04    <DIR>          ..
+17-09-2020  07:46                 0 index.txt
+17-09-2020  07:48                17 test.txt
+17-09-2020  10:06                32 test1.html
+17-09-2020  03:04                 0 test3.txt
+               4 File(s)             49 bytes
+               2 Dir(s)  375,209,025,536 bytes free
